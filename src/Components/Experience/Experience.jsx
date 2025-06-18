@@ -48,7 +48,9 @@ const Experience = () => {
                          rel="noopener noreferrer" 
                          className="text-blue-400 underline text-sm hover:text-blue-300"
                         >
-                               View Certificate
+                         <button className="mt-2 bg-[#465697] text-white py-1 px-4 rounded-xl text-sm hover:opacity-85 hover:scale-105 transition duration-300">
+                                  View Certificate
+                               </button>
                            </a>
                     </span>
                 </div>
