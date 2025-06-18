@@ -42,6 +42,14 @@ const Experience = () => {
                              <li>-Work as react intern</li>
                              <li>-Web developer</li>
                         </ul>
+                        <a 
+                         href="https://drive.google.com/file/d/1cY1cWkf2xP1PJ637ZGAIACbDXdLkfgS9/view?usp=drivesdk" 
+                         target="_blank" 
+                         rel="noopener noreferrer" 
+                         className="text-blue-400 underline text-sm hover:text-blue-300"
+                        >
+                               View Certificate
+                           </a>
                     </span>
                 </div>
             </div>
