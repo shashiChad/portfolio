@@ -22,6 +22,11 @@ const Projects = () => {
        link="https://github.com/shashiChad/health-table"       
        />
        <Projectcard
+       title="portfolio"
+       main="Designed a responsive developer portfolio using React and Tailwind CSS. Showcases skills, projects,experiences and contact form with smooth scroll and modern animations."
+       link="https://github.com/shashiChad/portfolio"
+       />
+       <Projectcard
        title="Airbnb"
        main="Work in progress"
        link="https://github.com/shashiChad/wanderlust-node"
