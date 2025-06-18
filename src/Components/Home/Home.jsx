@@ -11,7 +11,11 @@ const Home = () => {
       <p className="text-sm md:text-2xl tracking-tight">
         Full-stack developer skilled in responsive UI, RESTful APIs, secure backend, optimized performance, modular design,and user-centric solutions.
       </p>
-      <a href="#Contact">
+      <a 
+      href="https://wa.me/916204769163" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      >
       <button 
        className="mt-5 md:md-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
         Contact me
